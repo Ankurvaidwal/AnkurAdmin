@@ -1,5 +1,5 @@
 import Single from '../../components/single/Single'
-import './users.scss'
+import './user.scss'
 import { singleUser } from '../../data'
 
 const User = () => {
